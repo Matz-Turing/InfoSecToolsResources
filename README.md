@@ -1,5 +1,7 @@
 # Recursos Úteis para Segurança da Informação
 
+<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="1000">
+
 Este documento lista ferramentas e recursos essenciais para segurança da informação, incluindo análise de vulnerabilidades, proteção de dados e gestão de segurança.
 
 ## Ferramentas de Análise de Vulnerabilidades
